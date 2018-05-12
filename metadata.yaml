@@ -1,0 +1,51 @@
+_repo: Uncle-s-Dream--and-The-Permanent-Husband_38241
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Whishaw, Frederick
+    aliases:
+    - Whishaw, Fred
+    - Whishaw, Frederick J.
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '38216'
+    url: http://www.gutenberg.org/2009/agents/38216
+    wikipedia: http://en.wikipedia.org/wiki/Fred_Whishaw
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fédor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fiodor
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Dostoyevsky, F. M.
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: Russian novelist Fyodor Dostoyevsky is today best remembered for his
+  longer works, including the sprawling philosophical epic The Brothers Karamazov.
+  Although his shorter works of fiction have received less attention, critics and
+  fans alike recognize them as thought-provoking, complex and elegant. This volume,
+  which collects two of Dostoyevsky''s novellas, is a perfect introduction to the
+  writer''s oeuvre.
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Princes -- Russia -- Fiction'
+title: Uncle's Dream; and The Permanent Husband
+url: http://www.gutenberg.org/ebooks/38241
